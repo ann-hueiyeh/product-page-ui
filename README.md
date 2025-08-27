@@ -14,3 +14,7 @@ https://cdn.jsdelivr.net/gh/ann-hueiyeh/product-page-ui/style-CfGfqsLU.css
 ```html
 <link rel="stylesheet" crossorigin href="https://cdn.jsdelivr.net/gh/ann-hueiyeh/product-page-ui/style-CfGfqsLU.css" />
 ```
+
+```html
+<link rel="stylesheet" crossorigin href="https://cdn.jsdelivr.net/gh/ann-hueiyeh/product-page-ui/style-XBS6RNSI.css" />
+```
