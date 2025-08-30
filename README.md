@@ -12,7 +12,7 @@ e.g.
 https://cdn.jsdelivr.net/gh/ann-hueiyeh/product-page-ui/global-DQX7yibL.css
 
 ```html
-<link rel="stylesheet" crossorigin href="https://cdn.jsdelivr.net/gh/ann-hueiyeh/product-page-ui/global-BcQoj5ev.css" />
+<link rel="stylesheet" crossorigin href="https://cdn.jsdelivr.net/gh/ann-hueiyeh/product-page-ui/global-CBQcxo-z.css" />
 ```
 
 ---
