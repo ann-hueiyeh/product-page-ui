@@ -18,5 +18,3 @@ https://cdn.jsdelivr.net/gh/ann-hueiyeh/product-page-ui/global-DQX7yibL.css
   href="https://cdn.jsdelivr.net/gh/ann-hueiyeh/product-page-ui/docs/global-TJGPlSEM.css"
 />
 ```
-
----
