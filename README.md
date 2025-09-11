@@ -15,6 +15,6 @@ https://cdn.jsdelivr.net/gh/ann-hueiyeh/product-page-ui/global-DQX7yibL.css
 <link
   rel="stylesheet"
   crossorigin
-  href="https://cdn.jsdelivr.net/gh/ann-hueiyeh/product-page-ui/docs/global-DY3e8og9.css"
+  href="https://cdn.jsdelivr.net/gh/ann-hueiyeh/product-page-ui/docs/global-Ct5iIN6q.css"
 />
 ```
