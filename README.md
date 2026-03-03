@@ -9,23 +9,37 @@ https://ann-hueiyeh.github.io/product-page-ui/
 https://cdn.jsdelivr.net/gh/{usename}/{repo}@{version}/{filepath}
 
 e.g.
-https://cdn.jsdelivr.net/gh/ann-hueiyeh/product-page-ui/docs/global-CzQaxEiq.css
+https://cdn.jsdelivr.net/gh/ann-hueiyeh/product-page-ui/docs/global-C-b873OE.css
 
 ```html
 <link
   rel="stylesheet"
   crossorigin
-  href="https://cdn.jsdelivr.net/gh/ann-hueiyeh/product-page-ui/docs/global-CzQaxEiq.css"
+  href="https://cdn.jsdelivr.net/gh/ann-hueiyeh/product-page-ui/docs/global-C-b873OE.css"
 />
 ```
 
 # Google Font
+
 ### Noto Serif
+
 ```html
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link
   href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap"
+  rel="stylesheet"
+/>
+```
+
+### 思源黑體 Noto Sans
+
+```html
+<!-- 思源黑體 -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&family=Noto+Serif+TC:wght@200..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap"
   rel="stylesheet"
 />
 ```
