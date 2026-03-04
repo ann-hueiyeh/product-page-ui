@@ -9,13 +9,13 @@ https://ann-hueiyeh.github.io/product-page-ui/
 https://cdn.jsdelivr.net/gh/{usename}/{repo}@{version}/{filepath}
 
 e.g.
-https://cdn.jsdelivr.net/gh/ann-hueiyeh/product-page-ui/docs/global-CSq0trNl.css
+https://cdn.jsdelivr.net/gh/ann-hueiyeh/product-page-ui/docs/global-DA4dr3Sm.css
 
 ```html
 <link
   rel="stylesheet"
   crossorigin
-  href="https://cdn.jsdelivr.net/gh/ann-hueiyeh/product-page-ui/docs/global-CSq0trNl.css"
+  href="https://cdn.jsdelivr.net/gh/ann-hueiyeh/product-page-ui/docs/global-DA4dr3Sm.css"
 />
 ```
 
